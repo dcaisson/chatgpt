@@ -1,2 +1,2 @@
-# chatgpt
+# ChatGPT
 Documents ChatGPT
